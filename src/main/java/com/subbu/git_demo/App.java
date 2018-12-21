@@ -13,6 +13,9 @@ public class App
 			System.out.println("subbu..");
 		}
 	}
+	public void subbu(){
+		System.out.println("subbu from kurnool....");
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
